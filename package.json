@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node server.js",
     "build": "webpack --mode production",
-    "serve": "webpack --mode 'development' && npx serve docs -s",
+    "serve": "webpack --mode 'development' && npx serve dist -s",
     "dev": "webpack-dev-server --mode development --history-api-fallback --open"
   },
   "repository": {
