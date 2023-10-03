@@ -2,10 +2,6 @@
 
 - Responsive web app developed with React.Js connected to Marvel Public API
 
-### Url address
-
-- Link Url: [https://the-marvel-world.herokuapp.com/](https://the-marvel-world.herokuapp.com/)
-
 ### Technologies / Tools
 
 - React.Js
