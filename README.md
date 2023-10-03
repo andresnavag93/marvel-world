@@ -20,7 +20,7 @@
 
 ### System requirements
 
-- node v12.18.3
+- node 12.18.3
 - npm 6.14.6
 - docker 19.03.13
 
@@ -31,7 +31,7 @@
 
 ### Make production release
 
-- `npm run start:build`
+- `npm run build`
 
 ### Run with Docker
 
