@@ -24,9 +24,9 @@
 
 ### System requirements
 
-- node ^v12.18.3
-- npm ^6.14.6
-- docker ^19.03.13
+- node v12.18.3
+- npm 6.14.6
+- docker 19.03.13
 
 ### Run the project locally
 
