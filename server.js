@@ -4,11 +4,11 @@ const app = express();
 const port = process.env.PORT || 8081;
 const expressStaticGzip = require("express-static-gzip");
 
-app.use(expressStaticGzip(path.join(__dirname, "build")));
+app.use(expressStaticGzip(path.join(__dirname, "docs")));
 
 // This route serves the React app
 app.get("/", (req, res) => {
-  res.sendFile(path.resolve(__dirname, "build", "index.html"));
+  res.sendFile(path.resolve(__dirname, "docs", "index.html"));
 });
 
 app.listen(port, () => console.log(`Server listening on port ${port}`));
