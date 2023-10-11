@@ -1,10 +1,23 @@
-# Marvel Web App
+<p align="center">
+  <img alt="React.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="60" />
+</p>
 
-- Responsive web app developed with React.Js connected to Marvel Public API
+<h1 align="center">
+  Marvel Web App
+</h1>
+<p align="center">
+  <a href="https://andresnavag93-marvel-world.netlify.app/" target="_blank">
+    https://andresnavag93-marvel-world.netlify.app/
+  </a>
+</p>
+
+<br/>
+
+- Responsive web app developed with React.js connected to Marvel Public API
 
 ### Technologies / Tools
 
-- React.Js
+- React.js
 - Webpack
 - Babel
 - Redux
